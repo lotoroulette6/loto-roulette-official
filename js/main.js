@@ -5,8 +5,8 @@
 // 前後の空白・改行を含めないでください。お問い合わせ以外は https:// で始めます。
 const SITE_LINKS = {
   appStore: 'https://apps.apple.com/jp/app/%E3%83%AD%E3%83%88%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88/id6802570461', // App Store：3つのダウンロードボタン＋フッター
-  x: '', // 公式X：最新情報セクション＋フッター
-  youtube: '', // 公式YouTube：最新情報セクション＋フッター
+  x: 'https://x.com/o5iefbcmn858650', // 公式X：最新情報セクション＋フッター
+  youtube: 'https://www.youtube.com/@ロトルーレット', // 公式YouTube：最新情報セクション＋フッター
   privacy: 'https://lotoroulette6.github.io/lotoroulette6-support/privacy.html', // プライバシーポリシー：フッター
   contact: 'mailto:hidehirokoyamachi+supp@gmail.com?subject=%E3%83%AD%E3%83%88%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%20%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B' // お問い合わせ：フッター。https:// または mailto: で始めます。
 };
